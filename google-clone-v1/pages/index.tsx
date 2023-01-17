@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Header from "../components/Header";
+import Footer from "../components/Footer";
 import Image from "next/image";
 import { MagnifyingGlassIcon, MicrophoneIcon } from "@heroicons/react/24/solid";
 
@@ -30,10 +31,11 @@ export default function Home() {
         </div>
         <div className="flex flex-col sm:flex-row w-1/2 space-y-2 mt-8 sm:space-y-0 sm:space-x-4 justify-center">
           <button className="btn">Google Search</button>
-          <button className="btn">I'm Feeling Lucky</button>
+          <button className="btn">I am Feeling Lucky</button>
         </div>
       </form>
       {/* Footer */}
+      <Footer />
     </div>
   );
 }
