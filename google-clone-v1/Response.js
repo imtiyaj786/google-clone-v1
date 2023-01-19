@@ -9,28 +9,30 @@ export default {
     queries: {
       request: [
         {
-          title: "Google Custom Search - alam",
-          totalResults: "393000000",
-          searchTerms: "alam",
+          title: "Google Custom Search - tailwind css",
+          totalResults: "71000000",
+          searchTerms: "tailwind css",
           count: 10,
           startIndex: 1,
           inputEncoding: "utf8",
           outputEncoding: "utf8",
           safe: "off",
           cx: "40883a6df72114ced",
+          searchType: "image",
         },
       ],
       nextPage: [
         {
-          title: "Google Custom Search - alam",
-          totalResults: "393000000",
-          searchTerms: "alam",
+          title: "Google Custom Search - tailwind css",
+          totalResults: "71000000",
+          searchTerms: "tailwind css",
           count: 10,
           startIndex: 11,
           inputEncoding: "utf8",
           outputEncoding: "utf8",
           safe: "off",
           cx: "40883a6df72114ced",
+          searchType: "image",
         },
       ],
     },
@@ -38,433 +40,239 @@ export default {
       title: "Google-Clone",
     },
     searchInformation: {
-      searchTime: 0.592556,
-      formattedSearchTime: "0.59",
-      totalResults: "393000000",
-      formattedTotalResults: "393,000,000",
+      searchTime: 0.279561,
+      formattedSearchTime: "0.28",
+      totalResults: "71000000",
+      formattedTotalResults: "71,000,000",
     },
     items: [
       {
         kind: "customsearch#result",
-        title: "Association of Licensed Automobile Manufacturers - Wikipedia",
-        htmlTitle:
-          "<b>Association of Licensed Automobile Manufacturers</b> - Wikipedia",
-        link: "https://en.wikipedia.org/wiki/Association_of_Licensed_Automobile_Manufacturers",
-        displayLink: "en.wikipedia.org",
-        snippet:
-          "The Association of Licensed Automobile Manufacturers (ALAM), began as the Manufacturer's Mutual Association (MMA), an organization originally formed to ...",
-        htmlSnippet:
-          "The <b>Association of Licensed Automobile Manufacturers</b> (<b>ALAM</b>), began as the Manufacturer&#39;s Mutual Association (MMA), an organization originally formed to&nbsp;...",
-        cacheId: "JOlZE6p3gjUJ",
-        formattedUrl:
-          "https://en.wikipedia.org/.../Association_of_Licensed_Automobile_ Manufacturers",
-        htmlFormattedUrl:
-          "https://en.wikipedia.org/.../Association_of_Licensed_Automobile_ Manufacturers",
-        pagemap: {
-          metatags: [
-            {
-              referrer: "origin",
-              "og:image":
-                "https://upload.wikimedia.org/wikipedia/commons/5/5d/1905StudebakerElectricAd1.jpg",
-              "theme-color": "#eaecf0",
-              "og:image:width": "1200",
-              "og:type": "website",
-              viewport:
-                "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
-              "og:title":
-                "Association of Licensed Automobile Manufacturers - Wikipedia",
-              "og:image:height": "927",
-              "format-detection": "telephone=no",
-            },
-          ],
+        title: "Tailwind CSS - GeeksforGeeks",
+        htmlTitle: "<b>Tailwind CSS</b> - GeeksforGeeks",
+        link: "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220831183000/Tailwind-CSS-Tutorial1.png",
+        displayLink: "www.geeksforgeeks.org",
+        snippet: "Tailwind CSS - GeeksforGeeks",
+        htmlSnippet: "<b>Tailwind CSS</b> - GeeksforGeeks",
+        mime: "image/png",
+        fileFormat: "image/png",
+        image: {
+          contextLink: "https://www.geeksforgeeks.org/tailwind-css/",
+          height: 413,
+          width: 1000,
+          byteSize: 36728,
+          thumbnailLink:
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkdIsklk1ldFpv-fLRBc_UKHYUnUI7k_e1XbpKtDtEjhlQBBfcwD3_Rr4&s",
+          thumbnailHeight: 62,
+          thumbnailWidth: 149,
         },
       },
       {
         kind: "customsearch#result",
-        title: "alam - Wiktionary",
-        htmlTitle: "<b>alam</b> - Wiktionary",
-        link: "https://en.wiktionary.org/wiki/alam",
-        displayLink: "en.wiktionary.org",
-        snippet:
-          "known; familiar synonyms △. Synonyms: batid, lantad · aware; conscious; cognizant; sensible synonyms △. Synonyms: batid, tukoy · clear; understood synonym △.",
-        htmlSnippet:
-          "known; familiar synonyms △. Synonyms: batid, lantad &middot; aware; conscious; cognizant; sensible synonyms △. Synonyms: batid, tukoy &middot; clear; understood synonym △.",
-        cacheId: "V_W-jkrwsosJ",
-        formattedUrl: "https://en.wiktionary.org/wiki/alam",
-        htmlFormattedUrl: "https://en.wiktionary.org/wiki/<b>alam</b>",
-        pagemap: {
-          metatags: [
-            {
-              referrer: "origin",
-              "theme-color": "#eaecf0",
-              "og:type": "website",
-              viewport:
-                "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
-              "og:title": "alam - Wiktionary",
-              "format-detection": "telephone=no",
-            },
-          ],
-        },
-      },
-      {
-        kind: "customsearch#result",
-        title: "Alam - Wikipedia",
-        htmlTitle: "<b>Alam</b> - Wikipedia",
-        link: "https://en.wikipedia.org/wiki/Alam",
-        displayLink: "en.wikipedia.org",
-        snippet:
-          'Arabic: عالم (ʿĀlam) meaning "world" or "universe" · Hebrew: cognate word עולם‎ is transcribed as Olam, also meaning "World" · Tagalog: Alam means "Knowledge" ( ...',
-        htmlSnippet:
-          "Arabic: عالم (<b>ʿĀlam</b>) meaning &quot;world&quot; or &quot;universe&quot; &middot; Hebrew: cognate word עולם‎ is transcribed as Olam, also meaning &quot;World&quot; &middot; Tagalog: <b>Alam</b> means &quot;Knowledge&quot; (&nbsp;...",
-        cacheId: "rWVFMEchuUkJ",
-        formattedUrl: "https://en.wikipedia.org/wiki/Alam",
-        htmlFormattedUrl: "https://en.wikipedia.org/wiki/<b>Alam</b>",
-        pagemap: {
-          metatags: [
-            {
-              referrer: "origin",
-              "theme-color": "#eaecf0",
-              "og:type": "website",
-              viewport:
-                "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
-              "og:title": "Alam - Wikipedia",
-              "format-detection": "telephone=no",
-            },
-          ],
+        title: "Tailwind Labs - YouTube",
+        htmlTitle: "<b>Tailwind</b> Labs - YouTube",
+        link: "https://yt3.googleusercontent.com/ikv41jMTr1uHGdILrJhvbfVJcDt4oqhwApKX37TjAleF_cRPbF2W-waj7uMnS5JySvnlvAlTCg=s900-c-k-c0x00ffffff-no-rj",
+        displayLink: "www.youtube.com",
+        snippet: "Tailwind Labs - YouTube",
+        htmlSnippet: "<b>Tailwind</b> Labs - YouTube",
+        mime: "image/",
+        fileFormat: "image/",
+        image: {
+          contextLink: "https://www.youtube.com/c/tailwindlabs",
+          height: 900,
+          width: 900,
+          byteSize: 20914,
+          thumbnailLink:
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBGC8FhARRQ7nnY24Kh4-qsx3c5p3KAEtjVZ4oiof5yuM0sxEWlve2_QE&s",
+          thumbnailHeight: 146,
+          thumbnailWidth: 146,
         },
       },
       {
         kind: "customsearch#result",
         title:
-          "Alam Khan - Musician & Composer | Sarod | Sarode | Indian Classical",
+          "Setup your ReactJS + Tailwind CSS Project by creating a template ...",
         htmlTitle:
-          "<b>Alam</b> Khan - Musician &amp; Composer | Sarod | Sarode | Indian Classical",
-        link: "https://alamkhan.com/",
-        displayLink: "alamkhan.com",
+          "Setup your ReactJS + <b>Tailwind CSS</b> Project by creating a template ...",
+        link: "https://res.cloudinary.com/practicaldev/image/fetch/s--ysom2Zl---/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/1jqa96mtdymq7ydgjqf1.png",
+        displayLink: "dev.to",
         snippet:
-          "Son of the legendary Sarode (sarod) Maestro Ali Akbar Khan, Alam has been touching the hearts of audiences worldwide for many years with Sarod music.",
+          "Setup your ReactJS + Tailwind CSS Project by creating a template ...",
         htmlSnippet:
-          "Son of the legendary Sarode (sarod) Maestro Ali Akbar Khan, <b>Alam</b> has been touching the hearts of audiences worldwide for many years with Sarod music.",
-        cacheId: "BTLxJfgVrfEJ",
-        formattedUrl: "https://alamkhan.com/",
-        htmlFormattedUrl: "https://<b>alam</b>khan.com/",
-        pagemap: {
-          cse_thumbnail: [
-            {
-              src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdQV3LqnyzE26kLRC_mbt1i53i529q0NOAbOSWXSSz3DrRuOagHYNUD9NT",
-              width: "225",
-              height: "225",
-            },
-          ],
-          metatags: [
-            {
-              "og:type": "website",
-              "og:site_name": "Alam Khan",
-              "article:modified_time": "2022-09-21T12:13:18+00:00",
-              "tec-api-origin": "https://alamkhan.com",
-              viewport:
-                "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
-              "og:title":
-                "Alam Khan - Musician & Composer | Sarod | Sarode | Indian Classical",
-              "og:locale": "en_US",
-              "og:url": "https://alamkhan.com/",
-              "msapplication-tileimage":
-                "https://alamkhan.com/wp-content/uploads/2020/07/alamkhan-favicon.png",
-              "og:description":
-                "Son of the legendary Sarode (sarod) Maestro Ali Akbar Khan, Alam has been touching the hearts of audiences worldwide for many years with Sarod music.",
-              "tec-api-version": "v1",
-            },
-          ],
-          cse_image: [
-            {
-              src: "https://alamkhan.com/wp-content/uploads/2022/09/image0.jpeg",
-            },
-          ],
+          "Setup your ReactJS + <b>Tailwind CSS</b> Project by creating a template ...",
+        mime: "image/png",
+        fileFormat: "image/png",
+        image: {
+          contextLink:
+            "https://dev.to/shaan_alam/setup-your-reactjs-tailwind-css-project-by-creating-a-template-2ifa",
+          height: 900,
+          width: 1600,
+          byteSize: 23234,
+          thumbnailLink:
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMq4p7MXvZ9JNIWAKhYZN-yy7NSgc6GMbY6sPcYj-LAkmDVv8bTT19GC8&s",
+          thumbnailHeight: 84,
+          thumbnailWidth: 150,
         },
       },
       {
         kind: "customsearch#result",
-        title: "Rumaan Alam",
-        htmlTitle: "Rumaan <b>Alam</b>",
-        link: "https://www.rumaanalam.com/",
-        displayLink: "www.rumaanalam.com",
-        snippet:
-          "Skip to Content. Rumaan Alam · Work. Open Menu Close Menu. Rumaan Alam · Work. Open Menu Close Menu. Work · Leave the World Behind. That Kind of Mother ...",
+        title: "Designing with Tailwind CSS",
+        htmlTitle: "Designing with <b>Tailwind CSS</b>",
+        link: "https://v1.tailwindcss.com/_next/static/media/workcation-screenshot.e15fad2353857da51319620da615ff93.jpg",
+        displayLink: "v1.tailwindcss.com",
+        snippet: "Designing with Tailwind CSS",
+        htmlSnippet: "Designing with <b>Tailwind CSS</b>",
+        mime: "image/jpeg",
+        fileFormat: "image/jpeg",
+        image: {
+          contextLink: "https://v1.tailwindcss.com/course",
+          height: 1059,
+          width: 1473,
+          byteSize: 159308,
+          thumbnailLink:
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_G2HsPrg1S6oU3TvAfubMUxncbGChfjrSGmuIlvbqu2CdyuQHoejukQ&s",
+          thumbnailHeight: 108,
+          thumbnailWidth: 150,
+        },
+      },
+      {
+        kind: "customsearch#result",
+        title: "10+ Free Tailwind CSS Templates & Resources for 2021",
+        htmlTitle:
+          "10+ Free <b>Tailwind CSS</b> Templates &amp; Resources for 2021",
+        link: "https://www.creative-tim.com/blog/content/images/size/w960/wordpress/2021/02/blog-2.jpg",
+        displayLink: "www.creative-tim.com",
+        snippet: "10+ Free Tailwind CSS Templates & Resources for 2021",
         htmlSnippet:
-          "Skip to Content. Rumaan <b>Alam</b> &middot; Work. Open Menu Close Menu. Rumaan <b>Alam</b> &middot; Work. Open Menu Close Menu. Work &middot; Leave the World Behind. That Kind of Mother&nbsp;...",
-        cacheId: "ZyQIYE_HYdUJ",
-        formattedUrl: "https://www.rumaanalam.com/",
-        htmlFormattedUrl: "https://www.rumaan<b>alam</b>.com/",
-        pagemap: {
-          cse_thumbnail: [
-            {
-              src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJbWDo81uH0NfFTGT82fVedutMgiGi2XUBUnaHFHLfQGKekS72yO53_ex-",
-              width: "309",
-              height: "163",
-            },
-          ],
-          metatags: [
-            {
-              "og:type": "website",
-              "twitter:title": "Rumaan Alam",
-              "twitter:card": "summary",
-              "og:site_name": "Rumaan Alam",
-              viewport: "width=device-width, initial-scale=1",
-              "twitter:url": "https://www.rumaanalam.com",
-              "og:title": "Rumaan Alam",
-              "og:url": "https://www.rumaanalam.com",
-            },
-          ],
-          cse_image: [
-            {
-              src: "https://images.squarespace-cdn.com/content/v1/603eba679cddcf2f12adaa87/1614795975073-CEDU7XT86NJZIHNUDD9P/TKOM_hc.jpg?format=1500w",
-            },
-          ],
+          "10+ Free <b>Tailwind CSS</b> Templates &amp; Resources for 2021",
+        mime: "image/jpeg",
+        fileFormat: "image/jpeg",
+        image: {
+          contextLink:
+            "https://www.creative-tim.com/blog/web-development/free-tailwind-css-templates-resources/",
+          height: 410,
+          width: 730,
+          byteSize: 28893,
+          thumbnailLink:
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCQtA0gjpbsXdbg6HdEfoZe8VHNwbbA5FtLUpDe92_aHc0XjDsKbFG3Is&s",
+          thumbnailHeight: 79,
+          thumbnailWidth: 141,
+        },
+      },
+      {
+        kind: "customsearch#result",
+        title: "Tailwind CSS Starter Kit | Drupal.org",
+        htmlTitle: "<b>Tailwind CSS</b> Starter Kit | Drupal.org",
+        link: "https://www.drupal.org/files/project-images/screenshot_361.png",
+        displayLink: "www.drupal.org",
+        snippet: "Tailwind CSS Starter Kit | Drupal.org",
+        htmlSnippet: "<b>Tailwind CSS</b> Starter Kit | Drupal.org",
+        mime: "image/png",
+        fileFormat: "image/png",
+        image: {
+          contextLink: "https://www.drupal.org/project/tailwindcss",
+          height: 400,
+          width: 400,
+          byteSize: 7158,
+          thumbnailLink:
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQniGOFIc0T_Pxp6gVSF0zDGIbdKfIUgHYNI0CAlwzuQr76oorrLhnj5A&s",
+          thumbnailHeight: 124,
+          thumbnailWidth: 124,
         },
       },
       {
         kind: "customsearch#result",
         title:
-          "Asbestos & Lead Abatement of Michigan LLC – Taking care of your ...",
+          "React with Tailwind CSS. Tailwind is a CSS framework with a… | by ...",
         htmlTitle:
-          "Asbestos &amp; Lead Abatement of Michigan LLC – Taking care of your ...",
-        link: "https://alaminc.com/",
-        displayLink: "alaminc.com",
+          "React with <b>Tailwind CSS</b>. <b>Tailwind</b> is a <b>CSS</b> framework with a… | by ...",
+        link: "https://miro.medium.com/max/1400/1*oPL8C-i04sqAUoOS_da9aA.jpeg",
+        displayLink: "waresix.engineering",
         snippet:
-          "Our company has been serving the entire state of Michigan since 1985. Our primary focus has been, and will continue to be, two-fold: Customer service as ...",
+          "React with Tailwind CSS. Tailwind is a CSS framework with a… | by ...",
         htmlSnippet:
-          "Our company has been serving the entire state of Michigan since 1985. Our primary focus has been, and will continue to be, two-fold: Customer service as&nbsp;...",
-        cacheId: "l1FhiJfHw0YJ",
-        formattedUrl: "https://alaminc.com/",
-        htmlFormattedUrl: "https://<b>alam</b>inc.com/",
-        pagemap: {
-          cse_thumbnail: [
-            {
-              src: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyFaz0CbgwPoWSk12eBafkS_t1DdRoCErGlkCzy6aou4znaA1j4VE5EiTR",
-              width: "275",
-              height: "183",
-            },
-          ],
-          imageobject: [
-            {
-              image:
-                "https://alaminc.com/wp-content/uploads/2020/05/cleaning-icon01-free-img.png",
-            },
-            {
-              image:
-                "https://alaminc.com/wp-content/uploads/2020/05/cleaning-icon02-free-img.png",
-            },
-            {
-              image:
-                "https://alaminc.com/wp-content/uploads/2020/05/cleaning-icon03-free-img.png",
-            },
-          ],
-          metatags: [
-            {
-              viewport: "width=device-width, initial-scale=1",
-              "msapplication-tileimage":
-                "https://alaminc.com/wp-content/uploads/2021/04/cropped-site-icon-2021-270x270.png",
-            },
-          ],
-          creativework: [
-            {
-              text: "Taking Care of Your Environmental Needs Serving the Entire State of Michigan Asbestos Abatement / Encapsulation Lead Abatement / Encapsulation Mold Remediation / IICRC Certified Other Services...",
-            },
-          ],
-          cse_image: [
-            {
-              src: "https://alaminc.com/wp-content/uploads/2020/05/lead-hazard-1024x683.jpg",
-            },
-          ],
+          "React with <b>Tailwind CSS</b>. <b>Tailwind</b> is a <b>CSS</b> framework with a… | by ...",
+        mime: "image/jpeg",
+        fileFormat: "image/jpeg",
+        image: {
+          contextLink:
+            "https://waresix.engineering/react-with-tailwind-css-e73f87c5407b",
+          height: 787,
+          width: 1400,
+          byteSize: 44548,
+          thumbnailLink:
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrYxLtKj5tMcPgHpc-wC3VI_HuQSTxu9D-kigSxsvoKWfQ-BTUy_L3nw&s",
+          thumbnailHeight: 84,
+          thumbnailWidth: 150,
         },
       },
       {
         kind: "customsearch#result",
-        title: "Dan Alam | Morrison Foerster",
-        htmlTitle: "Dan <b>Alam</b> | Morrison Foerster",
-        link: "https://www.mofo.com/people/dan-alam",
-        displayLink: "www.mofo.com",
-        snippet:
-          "Dan Alam is an associate based in the London office of Morrison & Foerster and is a member of the Data Privacy and Employment Groups. Dan advises clients on ...",
-        htmlSnippet:
-          "Dan <b>Alam</b> is an associate based in the London office of Morrison &amp; Foerster and is a member of the Data Privacy and Employment Groups. Dan advises clients on&nbsp;...",
-        cacheId: "y-HVI4C_IfUJ",
-        formattedUrl: "https://www.mofo.com/people/dan-alam",
-        htmlFormattedUrl: "https://www.mofo.com/people/dan-<b>alam</b>",
-        pagemap: {
-          cse_thumbnail: [
-            {
-              src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtXeGwK76Q2bYNjmuVeF6ttFVu42ngtssuVpH8Nf5z_4PH4CtbISgE0OI",
-              width: "225",
-              height: "225",
-            },
-          ],
-          metatags: [
-            {
-              "og:image":
-                "https://media2.mofo.com/v3/images/blt5775cc69c999c255/blt1d2f06f45e14880c/62733df4deee7329767e842e/alam_danial_social_600x600.jpg?format=auto&quality=60",
-              "next-head-count": "25",
-              "og:type": "website",
-              "twitter:card": "summary_large_image",
-              "twitter:image:alt": "null",
-              "og:site_name": "Morrison Foerster",
-              viewport:
-                "width=device-width, initial-scale=1.0, maximum-scale=2.0, minimum-scale=1.0, user-scalable=yes",
-              "og:title": "Dan Alam | Morrison Foerster",
-              "og:url": "/people/dan-alam",
-              "og:description":
-                "Dan Alam is an associate based in the London office of Morrison & Foerster and is a member of the Data Privacy and Employment Groups.\nDan advises clients on contentious, advisory and transaction relat",
-              "format-detection": "telephone=no",
-            },
-          ],
-          cse_image: [
-            {
-              src: "https://media2.mofo.com/v3/images/blt5775cc69c999c255/blt1d2f06f45e14880c/62733df4deee7329767e842e/alam_danial_social_600x600.jpg?format=auto&quality=60",
-            },
-          ],
-        },
-      },
-      {
-        kind: "customsearch#result",
-        title: "ALAM",
-        htmlTitle: "<b>ALAM</b>",
-        link: "https://www.alam.edu.my/",
-        displayLink: "www.alam.edu.my",
-        snippet:
-          "ALAM is the leading maritime training academy in Malaysia. Founded in 1977, ALAM has trained more than thousands of maritime professionals for both onshore ...",
-        htmlSnippet:
-          "<b>ALAM</b> is the leading maritime training academy in Malaysia. Founded in 1977, <b>ALAM</b> has trained more than thousands of maritime professionals for both onshore&nbsp;...",
-        cacheId: "8QBV6zS88aAJ",
-        formattedUrl: "https://www.alam.edu.my/",
-        htmlFormattedUrl: "https://www.<b>alam</b>.edu.my/",
-        pagemap: {
-          metatags: [
-            {
-              "og:type": "website",
-              "twitter:card": "summary_large_image",
-              "og:site_name": "ALAM",
-              "article:modified_time": "2022-07-01T05:11:21+00:00",
-              viewport:
-                "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",
-              "og:title":
-                "Maritime Education - Shaping Maritime Professionals | Akademi Laut Malaysia",
-              "og:locale": "en_US",
-              "twitter:label1": "Est. reading time",
-              "og:url": "https://www.alam.edu.my/",
-              "msapplication-tileimage":
-                "https://www.alam.edu.my/wp-content/uploads/2021/01/cropped-alam-site-icon-270x270.png",
-              "og:description":
-                "Akademi Laut Malaysia is the leading maritime training academy in Malaysia offering qualifications, maritime education & training courses with comprehensive curriculums to prepare our graduates for the global maritime industry!",
-              "twitter:data1": "12 minutes",
-            },
-          ],
-        },
-      },
-      {
-        kind: "customsearch#result",
-        title: "Alam No Hris | Krill",
-        htmlTitle: "<b>Alam</b> No Hris | Krill",
-        link: "https://wheretheresakrilltheresaway.bandcamp.com/album/alam-no-hris",
-        displayLink: "wheretheresakrilltheresaway.bandcamp.com",
-        snippet:
-          "Alam No Hris by Krill, released 06 March 2012 1. Dumbass In A Pair Of Shorts 2. Piranha Girl 3. 32 Teeth 4. Kyle 5. Solitaire 6. Slug 7. Kissipaw 8.",
-        htmlSnippet:
-          "<b>Alam</b> No Hris by Krill, released 06 March 2012 1. Dumbass In A Pair Of Shorts 2. Piranha Girl 3. 32 Teeth 4. Kyle 5. Solitaire 6. Slug 7. Kissipaw 8.",
-        cacheId: "xa9jqpmvtD8J",
-        formattedUrl:
-          "https://wheretheresakrilltheresaway.bandcamp.com/album/alam-no-hris",
-        htmlFormattedUrl:
-          "https://wheretheresakrilltheresaway.bandcamp.com/album/<b>alam</b>-no-hris",
-        pagemap: {
-          cse_thumbnail: [
-            {
-              src: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsQQB9jSXw68zsXt5BqNm8J8JGL8AzpkItx3PyX62blAZoucIB1EYA0Bw",
-              width: "225",
-              height: "225",
-            },
-          ],
-          metatags: [
-            {
-              "og:image": "https://f4.bcbits.com/img/a2571232995_5.jpg",
-              video_height: "120",
-              "theme-color": "#ffffff",
-              "twitter:card": "player",
-              "og:site_name": "Krill",
-              video_width: "400",
-              medium: "video",
-              title: "Alam No Hris, by Krill",
-              "og:description": "13 track album",
-              "twitter:player":
-                "https://bandcamp.com/EmbeddedPlayer/v=2/album=56797359/size=large/linkcol=0084B4/notracklist=true/twittercard=true/",
-              "twitter:player:height": "467",
-              "twitter:site": "@bandcamp",
-              "og:video:type": "text/html",
-              "og:video:height": "120",
-              "bc-page-properties":
-                '{"item_type":"a","item_id":56797359,"tralbum_page_version":1}',
-              "og:type": "album",
-              "og:title": "Alam No Hris, by Krill",
-              "og:video:secure_url":
-                "https://bandcamp.com/EmbeddedPlayer/v=2/album=56797359/size=large/tracklist=false/artwork=small/",
-              "og:video:width": "400",
-              video_type: "application/x-shockwave-flash",
-              "og:video":
-                "https://bandcamp.com/EmbeddedPlayer/v=2/album=56797359/size=large/tracklist=false/artwork=small/",
-              viewport: "width=device-width, initial-scale=1",
-              "apple-mobile-web-app-capable": "yes",
-              "og:url":
-                "https://wheretheresakrilltheresaway.bandcamp.com/album/alam-no-hris",
-              "twitter:player:width": "350",
-            },
-          ],
-          cse_image: [
-            {
-              src: "https://f4.bcbits.com/img/a2571232995_65",
-            },
-          ],
+        title: "Tailwind CSS Starter Kit | Drupal.org",
+        htmlTitle: "<b>Tailwind CSS</b> Starter Kit | Drupal.org",
+        link: "https://www.drupal.org/files/styles/grid-3-2x/public/project-images/screenshot_361.png?itok=w4CzcWyb",
+        displayLink: "www.drupal.org",
+        snippet: "Tailwind CSS Starter Kit | Drupal.org",
+        htmlSnippet: "<b>Tailwind CSS</b> Starter Kit | Drupal.org",
+        mime: "image/png",
+        fileFormat: "image/png",
+        image: {
+          contextLink: "https://www.drupal.org/project/tailwindcss",
+          height: 400,
+          width: 400,
+          byteSize: 6833,
+          thumbnailLink:
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe3nPNy8zuCqISZaVsqC-PkpgoozWXn9o4aF-Ar_f1v7NSSlxqWJ9m&s",
+          thumbnailHeight: 124,
+          thumbnailWidth: 124,
         },
       },
       {
         kind: "customsearch#result",
         title:
-          "Murad Alam : Faculty Profile: Faculty Profiles: Feinberg School of ...",
+          "State of CSS 2020 Survey Results: Tailwind CSS Wins Most Adopted ...",
         htmlTitle:
-          "Murad <b>Alam</b> : Faculty Profile: Faculty Profiles: Feinberg School of ...",
-        link: "https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=10210",
-        displayLink: "www.feinberg.northwestern.edu",
+          "State of <b>CSS</b> 2020 Survey Results: <b>Tailwind CSS</b> Wins Most Adopted ...",
+        link: "https://149611589.v2.pressablecdn.com/wp-content/uploads/2020/12/state-of-css-2020.png",
+        displayLink: "wptavern.com",
         snippet:
-          "Dr. Murad Alam is Vice-Chair of Dermatology; Professor of Dermatology, Otolaryngology, and Surgery; Professor of Medical Social Sciences, and Chief of the ...",
+          "State of CSS 2020 Survey Results: Tailwind CSS Wins Most Adopted ...",
         htmlSnippet:
-          "Dr. Murad <b>Alam</b> is Vice-Chair of Dermatology; Professor of Dermatology, Otolaryngology, and Surgery; Professor of Medical Social Sciences, and Chief of the&nbsp;...",
-        cacheId: "1FAghmgA5R8J",
-        formattedUrl:
-          "https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?...",
-        htmlFormattedUrl:
-          "https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?...",
-        pagemap: {
-          cse_thumbnail: [
-            {
-              src: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQf1BGg80vTNahInN0vXsPoT6hH5EaECQQCg8NRC539lX6GjIi-nSUFPF72",
-              width: "160",
-              height: "160",
-            },
-          ],
-          metatags: [
-            {
-              "msapplication-tilecolor": "#61458c",
-              "theme-color": "#61468b",
-              viewport: "width=device-width, initial-scale=1, shrink-to-fit=no",
-              "og:title": "Faculty Profile",
-              pageid: "364a8cde816977243aab9ac08c3db810",
-              "msapplication-tileimage":
-                "//www.feinberg.northwestern.edu/favicons/ms-icon-144x144.png",
-            },
-          ],
-          cse_image: [
-            {
-              src: "https://deptcommon.fsm.northwestern.edu/profile-images/10210.jpg",
-            },
-          ],
+          "State of <b>CSS</b> 2020 Survey Results: <b>Tailwind CSS</b> Wins Most Adopted ...",
+        mime: "image/png",
+        fileFormat: "image/png",
+        image: {
+          contextLink:
+            "https://wptavern.com/state-of-css-2020-survey-results-tailwind-css-wins-most-adopted-technology-utility-first-css-on-the-rise",
+          height: 1210,
+          width: 2100,
+          byteSize: 336654,
+          thumbnailLink:
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7J4T3nFo1ik-axOhMsUXO3h-t9yZNAP09VeI06nv1l2QMmBCz4zvU7eo&s",
+          thumbnailHeight: 86,
+          thumbnailWidth: 150,
+        },
+      },
+      {
+        kind: "customsearch#result",
+        title: "Tailwind CSS | WebStorm Documentation",
+        htmlTitle: "<b>Tailwind CSS</b> | WebStorm Documentation",
+        link: "https://resources.jetbrains.com/help/img/idea/2022.3/ws_tailwind_css_preview_completion_dark.png",
+        displayLink: "www.jetbrains.com",
+        snippet: "Tailwind CSS | WebStorm Documentation",
+        htmlSnippet: "<b>Tailwind CSS</b> | WebStorm Documentation",
+        mime: "image/png",
+        fileFormat: "image/png",
+        image: {
+          contextLink:
+            "https://www.jetbrains.com/help/webstorm/tailwind-css.html",
+          height: 656,
+          width: 1412,
+          byteSize: 76511,
+          thumbnailLink:
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToVzNzUsjcfJiTMKhBNncxMq_f6XZuKNXB1SFfZn1SY5yWlci110r6c3w&s",
+          thumbnailHeight: 70,
+          thumbnailWidth: 150,
         },
       },
     ],

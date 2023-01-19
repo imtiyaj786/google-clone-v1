@@ -3,21 +3,26 @@ import SearchHeader from "../components/SearchHeader";
 import SearchResults from "../components/SearchResults";
 import { useRouter } from "next/router";
 import Response from "../Response";
+import ImageResults from "../components/ImageResults";
 
-export default function Search(results) {
-  console.log("Search.js Components ", results);
+export default function Search({ results }) {
+  console.log(results);
   const router = useRouter();
   return (
     <div>
       <Head>
         <title>{router.query.term} - Search </title>
-        <link rel="icon" href="/favicon.ico" />
+        {/* <link rel="icon" href="/favicon.ico" /> */}
       </Head>
       {/* Search Header */}
       <SearchHeader />
 
-      {/* Search Results */}
-      <SearchResults results={results} />
+      {/* Search web and Images Results */}
+      {router.query.searchType === "image" ? (
+        <ImageResults results={results} />
+      ) : (
+        <SearchResults results={results} />
+      )}
     </div>
   );
 }
